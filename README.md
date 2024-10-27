@@ -1,4 +1,4 @@
-<h1 style='text-align: center; align-items:center;'>👋 Hello, I'm Subrat Pandey!</h1>
+<h1>👋 Hello, I'm Subrat Pandey!</h1>
 
 Welcome to my GitHub! I'm a developer student passionate about building impactful projects,
 solving challenging problems, and diving deep into the mysteries of the universe.
@@ -35,8 +35,8 @@ Here’s a look at what you'll find here:
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
- <h3>🌐 Connect with Me</h3>
+<!--  <h3>🌐 Connect with Me</h3>
 - LinkedIn: linkedin.com/in/contact-subrat-pandey
-- Twitter: @12SubratPandey
+- Twitter: @12SubratPandey -->
 
 <h3>Explore my repositories, and let’s connect if you share similar interests. Looking forward to learning, collaborating, and coding with you!</h3>
