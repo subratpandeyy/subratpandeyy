@@ -5,15 +5,19 @@ solving challenging problems, and diving deep into the mysteries of the universe
 My areas of focus include MERN stack development, Data Structures and Algorithms (DSA), and a strong curiosity for space science.
 
  <h3>🚀 About Me</h3>
-- 🌱 Currently exploring and developing projects with the MERN stack.
-- 💻 DSA Enthusiast: Problem-solving is my thing! I’m constantly working on enhancing my algorithmic skills.
-- 🌌 Space Science Explorer: The cosmos inspires me, and I love learning about space-related innovations.
+ <ul>
+ <li>🌱 Currently exploring and developing projects with the MERN stack.</li>
+ <li>💻 DSA Enthusiast: Problem-solving is my thing! I’m constantly working on enhancing my algorithmic skills.</li>
+ <li>🌌 Space Science Explorer: The cosmos inspires me, and I love learning about space-related innovations.</li>
+ </ul>
 
  <h3>💼 Projects</h3>
 Here’s a look at what you'll find here:
-- Full-Stack Development: Projects featuring the Websites made using PHP and MERN stack, from frontend to backend.
-- Coding Challenges: Solutions from platforms like CodeChef and personal problem-solving projects.
-- Space Science Experiments: Fun and exploratory code for data visualization and analysis in space science.
+<ul>
+ <li>Full-Stack Development: Projects featuring the Websites made using PHP and MERN stack, from frontend to backend.</li>
+ <li>Coding Challenges: Solutions from platforms like CodeChef and personal problem-solving projects.</li>
+ <li>Space Science Experiments: Fun and exploratory code for data visualization and analysis in space science.</li>
+</ul>
 
 <h3> GSSOC(24) Badges 🪶</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
