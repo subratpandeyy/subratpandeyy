@@ -1,11 +1,12 @@
-<h1 style="text-align:center;">👋 Hello, I'm Subrat Pandey!</h1>
+<h1 align="center">Hello, I'm Subrat Pandey!🥷</h1>
 
 Welcome to my GitHub! I'm a developer student passionate about building impactful projects,
 solving challenging problems, and diving deep into the mysteries of the universe.
-My areas of focus include MERN stack development, Data Structures and Algorithms (DSA), and a strong curiosity for space science.
+My areas of focus include MERN stack development, Data Structures and Algorithms (DSA), and a strong curiosity for space science. 
 
  <h3>🚀 About Me</h3>
  <ul>
+ <li>🧑‍💻 Co-Member at GeeksForGeeks Student Chapter GIETU. </li>
  <li>🌱 Currently exploring and developing projects with the MERN stack.</li>
  <li>💻 DSA Enthusiast: Problem-solving is my thing! I’m constantly working on enhancing my algorithmic skills.</li>
  <li>🌌 Space Science Explorer: The cosmos inspires me, and I love learning about space-related innovations.</li>
@@ -27,13 +28,8 @@ Here’s a look at what you'll find here:
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> -->
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> -->
+
+
 </div>
 <!--  <h3>🌐 Connect with Me</h3>
 - LinkedIn: linkedin.com/in/contact-subrat-pandey
