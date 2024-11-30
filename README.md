@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Subrat Pandey!</h1>
+<h1 style=text-align:center;">👋 Hello, I'm Subrat Pandey!</h1>
 
 Welcome to my GitHub! I'm a developer student passionate about building impactful projects,
 solving challenging problems, and diving deep into the mysteries of the universe.
