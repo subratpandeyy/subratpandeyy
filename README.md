@@ -10,6 +10,7 @@ My areas of focus include MERN stack development, Data Structures and Algorithms
  <li>🌱 Currently exploring and developing projects with the MERN stack.</li>
  <li>💻 DSA Enthusiast: Problem-solving is my thing! I’m constantly working on enhancing my algorithmic skills.</li>
  <li>🌌 Space Science Explorer: The cosmos inspires me, and I love learning about space-related innovations.</li>
+ <li>Interests: Web Development, Java</li>
  </ul>
 
  <h3>💼 Projects</h3>
