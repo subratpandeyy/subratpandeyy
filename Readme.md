@@ -37,8 +37,8 @@ I'm a **Developer** with a focus on building scalable solutions and creating mea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-guptaji&show_icons=true&theme=react" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-guptaji&layout=compact&theme=react" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subratpandeyy&show_icons=true&theme=react" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratpandeyy&layout=compact&theme=react" height="150px"/>
 </p>
 
 
