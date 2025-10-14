@@ -41,21 +41,6 @@ I'm a **Developer** with a focus on building scalable solutions and creating mea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratpandeyy&layout=compact&theme=react" height="150px"/>
 </p>
 
-
-## 🚀 Featured Projects
-
-### CruxCRM(https://github.com/subratpandeyy/Cruxcrm)
-**Tech Stack:** React, Spring Boot, PostgreSQL, JWT  
-Multi-tenant Customer Relation Management connects sales with clients efficiently.
-
-### Dev Diary(https://github.com/subratpandeyy/DevDiary)
-**Tech Stack:** React.js, Express.js, Material UI, MongoDB  
-Connects authenticated developers together to post, read, update and delete blogs.
-
-### GFG Gietu(https://github.com/subratpandeyy/GFG-Student-Chapter)
-**Tech Stack:** React, Express.js, MongoDB  
-Announcement and marketing of GFG Student Chapter GIET University.
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/contac-subrat-pandey)
