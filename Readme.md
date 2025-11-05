@@ -5,7 +5,7 @@
 I'm a **Developer** with a focus on building scalable solutions and creating meaningful digital experiences. I enjoy tackling complex problems and turning ideas into reality through code.
 
 - 🔭 Currently working on **Multi-Tenant CRM**
-- 🌱 Learning **AI & ML**
+- 🌱 Learning **Software Development**
 - 💬 Ask me about **React, Springboot, ORM**
 - 📫 Reach me at **12subratpandey@gmail.com**
 - ⚡ Fun fact: **I code Poetry**
