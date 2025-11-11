@@ -4,8 +4,6 @@ I'm a **Developer** with a focus on building scalable solutions and creating mea
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-
-- Currently working on **Multi-Tenant CRM**
 - Learning **Software Development**
 - Ask me about **React, Springboot, ORM**
 - Reach me at **12subratpandey@gmail.com**
