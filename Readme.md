@@ -2,7 +2,7 @@
 - Learning Software Development<br>
 - Ask me about React, Springboot, ORM<br>
 - Reach me at 12subratpandey@gmail.com<br>
-- Fun fact: I code Poetry
+- Fun fact: <i>I code Poetry</i>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/contact-subrat-pandey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/12SubratPandey) 
