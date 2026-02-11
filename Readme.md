@@ -17,5 +17,7 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+![me](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBsZzUzMzB2cnkwdWJyd2M2ZHVqaGJiN21waTZwdTdkNmJ1anBnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEUAbg1Q7mQ1a84int/giphy.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=subratpandeyy&icon=2&color=8)](https://visitcount.itsvg.in)
